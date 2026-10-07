@@ -1,0 +1,7 @@
+Prio: Name: Alex Rivera; App/Area: Outlook; Exact error message: Cannot start Microsoft Outlook. Cannot open the Outlook window.; What I was doing: Opening Outlook after a Windows update; Steps already tried: Restarted machine, started Outlook in Safe Mode, repaired Office via Settings > Apps, recreated Outlook profile, ran SFC scan; Windows version: Windows 11 Pro 22H2; Corporate device: Yes (company-managed laptop); Urgency: High — cannot access work email.
+
+Name: Not provided
+
+Submitted:2026-10-07T14:45:00.623-03:00
+
+Issue: No user name or issue provided. Please reply with your name and a brief description including which app/area (Windows/Word/Excel/Outlook/PowerPoint/Teams), exact error message (if any), what you were doing and steps already tried, Windows version and whether this is a corporate device, and urgency.
