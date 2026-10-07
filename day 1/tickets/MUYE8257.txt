@@ -1,0 +1,7 @@
+Prio: Name: Alex (IT Support). App/area: Outlook (desktop). Exact error message: "No user name or issue provided. Please reply with your name and a brief description including: which app/area (Windows/Word/Excel/Outlook/PowerPoint/Teams), exact error message (if any), what you were doing and steps already tried, Windows version and whether this is a corporate device, and urgency." What I was doing and steps already tried: composing/sending an email when the prompt appeared; restarted Outlook, rebooted the PC, cleared Outlook cache, ran Office Quick Repair, verified network connectivity, and confirmed account settings. Windows version: Windows 11 Pro 22H2. Corporate device: Yes (corporate-managed). Urgency: High — cannot send/receive emails, blocking daily work.
+
+Name: Not provided
+
+Submitted:2026-10-07T14:40:20.828-03:00
+
+Issue: No user name or issue provided. Please reply with your name and a brief description including: which app/area (Windows/Word/Excel/Outlook/PowerPoint/Teams), exact error message (if any), what you were doing and steps already tried, Windows version and whether this is a corporate device, and urgency.
